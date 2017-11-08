@@ -1,0 +1,49 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+body {
+  background-color: grey;
+  text-align: center;
+  font-family: Lobster;
+  background-image: url(http://en.dolcefregate-golf-provence.com/uploads/Image/9a/WEB_CHEMIN_39676_1455614169.jpg);
+  background-size: cover;
+   
+}
+.container-fluid {
+  font-family: Arimo;
+}
+.button {
+  padding: 1em;
+  width: 20.15254%;
+  border: none;
+  border-radius: 0.5em;
+  background-color: cyan;
+  font-size: 100%;
+  transition: all 0.2s ease-in-out;
+}
+#quoteButton: {
+	background-color: #2e6da4;
+  font-family: Arimo;
+  background-color: #337ab7;
+}
+blockquote {
+	background-color: #66ccff;
+	border-left: 10px;
+	margin: 1.5em 80px;
+	padding: 0.5em 10px;
+	quotes: '\201C''\201D''\2018''\2019';
+  font-family: Arimo;
+}
+.tweet-btn {
+  display: block;
+  cursor: pointer;
+}
+section {
+  min-height: 91.8vh;
+  font-size: 18px;
+  font-weight: 300;
+}
+footer {
+  min-height: 8vh;
+  padding-top: 20px;
+  padding-bottom: 1px;
+  font-family: arial;
+}
